@@ -20,9 +20,3 @@ The **Rightmove Property Scraper** is designed to gather structured data on prop
 3. **Pagination Handling:** Automatically moves to the next page until no more data is available.
 4. **Data Output:** Returns scraped data in a structured JSON format.
 
-### 🔧 Installation
-
-```bash
-git clone https://github.com/yourusername/Rightmove-Property-Scraper.git
-cd Rightmove-Property-Scraper
-pip install -r requirements.txt
